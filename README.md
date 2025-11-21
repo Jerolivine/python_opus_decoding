@@ -1,3 +1,4 @@
+to run locally
 put opus.dll under .venv/Scripts
 
 for pipeline
